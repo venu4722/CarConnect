@@ -1,0 +1,11 @@
+com.hexaware.controller
+com.hexaware.dao.service
+com.hexaware.dao.serviceImpl
+com.hexaware.emailservice
+com.hexaware.exception
+com.hexaware.hashing
+com.hexaware.main
+com.hexaware.model
+com.hexaware.reportgenerator
+com.hexaware.testing
+com.hexaware.util
